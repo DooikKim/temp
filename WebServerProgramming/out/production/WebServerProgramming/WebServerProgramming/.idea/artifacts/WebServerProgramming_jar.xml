@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebServerProgramming:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebServerProgramming_jar</output-path>
+    <root id="archive" name="WebServerProgramming.jar">
+      <element id="module-output" name="WebServerProgramming" />
+    </root>
+  </artifact>
+</component>

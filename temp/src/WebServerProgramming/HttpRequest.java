@@ -255,7 +255,7 @@ final class HttpRequest implements Runnable {
         }
     }
 
-     private static String contentType(String fileName) {
+    private static String contentType(String fileName) {
         String fname = fileName.toLowerCase();
         int lastdot = fname.lastIndexOf(".");
         if( (lastdot != -1) && (lastdot != fname.length() -1) ) {
